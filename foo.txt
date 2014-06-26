@@ -2,3 +2,5 @@ Hi
 bye
 Some changes to the file.
 How ya like dem apples?
+This line was written with the VIM editor.
+So, was this line, by the way.
